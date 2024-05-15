@@ -1,0 +1,31 @@
+Customer_ID,Title,Firstname,Surname,Address_1,Address_2,Town,County,Postcode,Contact_telephone_number
+CC000001,Mr.,John,Smith,1 Main St,,London,Greater London,NW1 3AB,020 1234 567881
+CC000002,Mrs.,Jane,Doe,2 High St,Apt 5,Birmingham,West Midlands,B1 1AB,012 3467 890109
+CC000003,Ms.,Emily,Brown,3 Market Rd,Flat 2,Liverpool,Merseyside,L3 7XY,015 1234 789083
+CC000004,Mr.,David,Johnson,4 King St,Suite 4,Bristol,Bristol,BS1 4RR,017 1234 567870
+CC000005,Mrs.,Samantha,Williams,5 Park Ave,Apt 3,Leeds,West Yorkshire,LS2 7TP,019 1234 789089
+CC000006,Ms.,Kate,Jones,6 River St,,Manchester,Greater Manchester,M1 2RL,016 1234 567864
+CC000007,Mr.,James,Taylor,7 Bridge St,Suite 2,Newcastle,Tyne and Wear,NE1 3AB,014 1234 789069
+CC000008,Mrs.,Emily,Davies,8 Green St,Flat 3,Nottingham,Nottinghamshire,NG1 4RR,018 1234 567802
+CC000009,Ms.,Laura,Wilson,9 Church St,,Belfast,Belfast,BT1 3AB,012 1234 789032
+CC000010,"Mr,",Michael,White,10 East St,Suite 1,Dublin,County Dublin,D1 4RL,011 1234 567813
+CC000011,Mrs.,Emily,Robinson,11 West St,Apt 2,Cork,County Cork,C1 1AB,015 1234 789026
+CC000012,Ms.,Rachel,Lewis,12 South St,Flat 1,Limerick,County Limerick,L1 7XY,013 1234 567832
+CC000013,Mr.,Christopher,Evans,13 North St,Suite 3,Galway,County Galway,G1 4RR,014 1234 789041
+CC000014,Mrs.,Rebecca,Garcia,14 Riverside St,Apt 4,Derry,Derry,DY1 3AB,016 1234 567891
+CC000015,Ms.,Sophie,Hall,15 Lake St,,Swansea,Swansea,SA1 2RL,017 1234 789084
+CC000016,Mr.,Ryan,Green,16 Mountain St,Suite 2,Cardiff,Cardiff,CF1 1AB,019 1234 567898
+CC000017,Mrs.,Emma,Baker,17 Ocean St,Flat 3,Plymouth,Devon,PL1 7XY,011 1234 789091
+CC000018,"Ms,",Jessica,Mitchell,18 Valley St,Apt 1,Exeter,Devon,EX1 4RL,012 1234 567858
+CC000019,Mr.,Richard,King,19 Canyon St,Suite 4,Truro,Cornwall,TR1 3AB,015 1234 788235
+CC000020,Mrs.,Emma,Lee,20 Hill St,Flat 2,St Austell,Cornwall,SA1 1AB,014 1234 789009
+CC000021,Ms.,Katie,Clark,21 Meadow St,,Newquay,Cornwall,NQ1 2RL,016 1234 567804
+CC000022,Mr.,Daniel,Murphy,22 Forest St,Suite 1,Bath,Somerset,BA1 1AB,017 1234 789017
+CC000023,Mrs.,Charlotte,Campbell,23 River St,Flat 3,Taunton,Somerset,TA1 7XY,019 1234 567828
+CC000024,Ms.,Abigail,Stewart,24 Mountain St,Apt 4,Bridgwater,Somerset,BG1 4RL,011 1234 789012
+CC000025,Mr.,Adam,Scott,25 Lake St,Suite 2,Frome,Somerset,FR1 3AB,012 1234 567840
+CC000026,Mrs.,Sarah,Richardson,26 Ocean St,Flat 1,Glastonbury,Somerset,GL1 1AB,015 1234 789080
+CC000027,Ms.,Hannah,Nelson,27 Valley St,,Wells,Somerset,WE1 2RL,014 1234 567851
+CC000028,Mr.,John,Parker,28 Canyon St,Suite 3,Shepton Mallet,Somerset,SM1 4RL,016 1234 789098
+CC000029,Mrs.,Anna,Mason,29 Hill St,Apt 2,Warminster,Wiltshire,WA1 1AB,017 1234 567875
+CC000030,Ms.,Claire,Harris,30 Meadow St,Flat 1,Salisbury,Wiltshire,SA1 7XY,019 1234 789043
